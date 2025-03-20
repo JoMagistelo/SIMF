@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+gdown
+openpyxl
+yfinance
+plotly.graph_objects
